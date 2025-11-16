@@ -23,6 +23,10 @@
         "blocks.info-block",
         "blocks.hero-section"
       ]
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
     }
   }
 }
